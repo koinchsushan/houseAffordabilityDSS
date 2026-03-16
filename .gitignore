@@ -1,0 +1,28 @@
+# Virtual environment
+housing-dss-env/
+
+# Data files — never commit raw data to GitHub
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Mac system files
+.DS_Store
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
