@@ -1,16 +1,7 @@
 """
-decision_rules.py
-Housing Affordability DSS — CS7P01 MSc Project
-London Metropolitan University
-
 Decision logic layer — risk classification, trajectory
 assessment, and policy recommendation functions.
 Refactored from notebooks/05_decision_support.ipynb.
-
-Academic justification:
-    Timmermans (1997) — DSS supports not replaces decisions
-    Power (2002) — model-driven DSS framework
-    Busuioc (2021) — algorithmic accountability in policy
 """
 
 import pandas as pd

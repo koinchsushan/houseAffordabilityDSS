@@ -1,8 +1,4 @@
 """
-data_pipeline.py
-Housing Affordability DSS — CS7P01 MSc Project
-London Metropolitan University
-
 Data loading and cleaning functions.
 Refactored from notebooks/01_eda.ipynb for modular use.
 """

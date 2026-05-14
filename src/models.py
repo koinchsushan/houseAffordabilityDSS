@@ -1,8 +1,4 @@
 """
-models.py
-Housing Affordability DSS — CS7P01 MSc Project
-London Metropolitan University
-
 Model wrappers for OLS Fixed Effects and Random Forest.
 Refactored from notebooks/03_models.ipynb for modular use.
 """

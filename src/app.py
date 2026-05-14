@@ -1,8 +1,4 @@
 """
-app.py
-Housing Affordability DSS — CS7P01 MSc Project
-London Metropolitan University
-
 Command-line runner for the Housing Affordability DSS.
 Loads all processed outputs and prints the DSS report.
 
